@@ -1,0 +1,14 @@
+Deve ser entregue até a P2
+
+Deve ser enviado para o email: vl@cin.ufpe.br, com o assunto 
+"[COMP4-M]"
+
+Escolha um sistema existente, web ou mobile, e:
+
+- Forneça uma descrição do sistema e informe onde pode ser acessado.
+- Elabore 30 casos de testes, seguindo o padrão BDD (Given, when, then..).
+- Execute todos os testes e forneça um relatório de execução dos testes, contendo evidências de sua execução (ex: prints, videos, etc).
+- Todo o desenvolvimento do documento deve estar versionado no bitbucket, e ao fim, deve ser dada permissão ao email supracitado no relatório.
+
+Plano de testes
+Relatório de execução
